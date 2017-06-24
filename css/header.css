@@ -1,0 +1,151 @@
+body
+{
+	padding:0;
+	margin:0;
+}
+
+.header
+{
+	width:100%;
+	height:15%;
+	position:absolute;
+	top:0;
+	z-index:10;
+	display: inline-block;
+}
+
+.footer
+{
+	background-color:#09214d;
+	width:100%;
+	height:20%;
+	color:white;
+	display:inline-block;
+}
+
+.logo
+{
+	margin:10px;
+	margin-left:25px;
+}
+
+img.logo
+{
+	vertical-align:bottom;
+}
+
+.symbol
+{
+	margin:10px;
+	float:right;
+	margin-right:25px;
+}
+
+img.symbol
+{
+	vertical-align:text-top;
+}
+
+.logoFooter
+{
+	margin:45px;
+}
+
+img.logoFooter
+{
+	vertical-align:top;
+}
+.webDirect
+{
+	float:right;
+	text-decoration:none;
+	color: #253f5e;
+	font-size:1em;
+	margin-top:15px;
+}
+
+.menu
+{
+	text-decoration:none;
+	color: #253f5e;
+	font-size:1.5em;
+	display:inline-block;
+	margin-left:3%;
+	margin-bottom:30px;
+}
+
+.font3x
+{
+	font-size:2em;
+}
+
+.inlineBlock
+{
+	display:inline-block;
+}
+
+table.footerNav
+{
+	color:white;
+}
+table.footerNav tr th
+{
+	text-align:left;
+	padding-bottom:10px;
+	margin-top:40px;
+	font-size:1.2em;
+}
+
+table.footerNav tr td
+{
+	padding-right:40px;
+}
+
+.footerNav2
+{
+	vertical-align:top;
+	display:inline-block;
+	font-size:1.2em;
+	font-weight:bold;
+}
+
+.footerLogo2
+{
+	float:right;
+	margin:25px;
+	margin-top:45px;
+}
+
+
+.navFooter
+{
+	float:right;
+	margin-right:5%;	
+}
+
+.navFooter ul
+{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+	margin-top:30px;	
+}
+
+.navFooter ul li
+{
+	padding-top:15px;
+}
+.navFooter ul li a
+{
+	text-decoration:none;
+	color:white;	
+}
+
+.footerSchool
+{
+	position:relative;
+	top:-55%;
+	left:17%;
+	font-weight:bold;
+	font-size:1.2em;
+}
