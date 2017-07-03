@@ -2,6 +2,51 @@
 {
 	background-image:url("../Asset/images/about.jpg");
 	background-size:100% 100%;
-	padding-top:15%;
+	height:35%;
 	margin-top:10%;
+	vertical-align:middle;
+}
+
+.backAbout .divBackAbout
+{
+	margin:auto;
+	display:block;
+	width:50%;
+	position:relative;
+	z-index: 1;
+	top:20%;
+}
+
+.backAbout div pre
+{
+	margin:0;
+	padding:0;
+	color:white;
+	font-size:2.5em;
+}
+
+.nav
+{
+	font-size:1.5em;
+	margin:auto;
+	display:block;
+	margin-top:5%;
+	text-align:center;
+	width:45%;
+}
+
+.nav a
+{
+	text-decoration:none;
+	color: white;
+}
+
+.contentAbout
+{
+	font-size: 1.5em;
+	color:grey;
+	width:75%;
+	display:block;
+	margin-top:2%;
+	margin-left:30%;
 }

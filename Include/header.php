@@ -1,12 +1,12 @@
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 	<link rel="stylesheet" type="text/css" href="../css/header.css">
-	<link rel="stylesheet" type="text/css" href="../css/about.css">
 	<link rel="stylesheet" type="text/css" href="../css/icon/css/font-awesome.css">
 </head>
 <body>
 	<div class="header">
 		<img class="logo" src="../Asset/logo-alste-m.png" height="80%" width="10%">		
+		
 			<a href="../View/About.php" class="menu">About ALSTE</a>
 			<a href="../View/#" class="menu">Organization</a>
 			<a href="../View/#" class="menu">News</a>
